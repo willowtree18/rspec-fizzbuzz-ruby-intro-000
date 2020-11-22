@@ -5,17 +5,17 @@ fizz_5 = 5
 fizz_15 = 15
 fizz_4 = 4
 
-def fizzbuzz(number)
-if fizz_3 == 3
+def fizzbuzz(variable)
+if fizz_3 == variable
   return ("Fizz")
 
-elsif fizz_5 == 5
+elsif fizz_5 == variable
     return ("Buzz")
 
-  elsif fizz_15 == 15
+  elsif fizz_15 == variable
     return ("Fizzbuzz")
 
-  elsif fizzbuzz_4 == 4
+  elsif fizzbuzz_4 == variable
     return nil
 
   end
