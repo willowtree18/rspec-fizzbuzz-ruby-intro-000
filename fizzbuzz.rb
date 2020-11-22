@@ -1,9 +1,5 @@
 # Don't forget! This file needs to be 'required' in its spec file
 # See README.md for instructions on how to do this
-fizz_3 = 3
-fizz_5 = 5
-fizz_15 = 15
-fizz_4 = 4
 
 def fizzbuzz(variable)
   fizz_3 = variable
