@@ -1,9 +1,9 @@
 # Don't forget! This file needs to be 'required' in its spec file
 # See README.md for instructions on how to do this
 def fizzbuzz(fizz_3)
-  puts ("Fizz")
+  return ("Fizz")
 end
 
 def fizzbuzz2(fizz_5)
-  puts ("Buzz")
+  return ("Buzz")
 end
