@@ -7,7 +7,7 @@ def fizzbuzz(variable)
   fizz_15 = 15
   fizz_4 = 4
 
-if fizz_3 == 3
+if variable == 3
   return ("Fizz")
 
 elsif fizz_5 == 5
