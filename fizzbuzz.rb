@@ -6,16 +6,16 @@ fizz_15 = 15
 fizz_4 = 4
 
 def fizzbuzz(variable)
-if fizz_3 == variable
+if fizz_3 == 3
   return ("Fizz")
 
-elsif fizz_5 == variable
+elsif fizz_5 == 5
     return ("Buzz")
 
-  elsif fizz_15 == variable
+  elsif fizz_15 == 15
     return ("Fizzbuzz")
 
-  elsif fizzbuzz_4 == variable
+  elsif fizzbuzz_4 == 4
     return nil
 
   end
