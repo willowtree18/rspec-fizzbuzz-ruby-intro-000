@@ -4,6 +4,6 @@ def fizzbuzz(fizz_3)
   puts ("Fizz")
 end
 
-def fizzbuzz(fizz_5)
+def fizzbuzz2(fizz_5)
   puts ("Buzz")
 end
