@@ -14,7 +14,7 @@ elsif variable == 5
     return ("Buzz")
 
   elsif variable == 15
-    return ("Fizzbuzz")
+    return ("FizzBuzz")
 
   elsif variable == 4
     return nil
