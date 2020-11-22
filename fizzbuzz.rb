@@ -5,5 +5,5 @@ return ("Fizz")
 end
 
 def fizzbuzz(fizz_5)
-  return "Buzz"
+  return ("Buzz")
 end
