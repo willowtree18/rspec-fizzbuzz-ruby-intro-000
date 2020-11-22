@@ -3,7 +3,7 @@
 def fizzbuzz(fizz_3, fizz_5, fizz_15, fizz_4)
 if fizz_3 = 3
   return ("Fizz")
-  
+
   elsif fizz_5 = 5
     return ("Buzz")
 
@@ -12,6 +12,6 @@ if fizz_3 = 3
 
   elsif fizzbuzz_4 = 4
     return nil
-    
-        
+
+
   end
