@@ -6,6 +6,7 @@ fizz_15 = 15
 fizz_4 = 4
 
 def fizzbuzz(variable)
+  fizz_3 = variable
 if fizz_3 == 3
   return ("Fizz")
 
