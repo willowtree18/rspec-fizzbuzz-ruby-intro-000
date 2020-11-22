@@ -13,5 +13,4 @@ if fizz_3 = 3
   elsif fizzbuzz_4 = 4
     return nil
 
-
   end
