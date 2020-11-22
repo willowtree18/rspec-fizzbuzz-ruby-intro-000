@@ -2,4 +2,3 @@
 # See README.md for instructions on how to do this
 def fizzbuzz(fizz_3, fizz_5, fizz_15, fizz_4)
   return ("Fizz")
-
