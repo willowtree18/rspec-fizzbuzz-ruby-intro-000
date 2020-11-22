@@ -10,13 +10,13 @@ def fizzbuzz(variable)
 if variable == 3
   return ("Fizz")
 
-elsif fizz_5 == 5
+elsif variable == 5
     return ("Buzz")
 
-  elsif fizz_15 == 15
+  elsif variable == 15
     return ("Fizzbuzz")
 
-  elsif fizz_4 == 4
+  elsif variable == 4
     return nil
 
   end
